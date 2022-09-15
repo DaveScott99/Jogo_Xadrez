@@ -4,7 +4,9 @@
 
 Este sistema de xadrez foi construido ao longo do curso de Java Completo, lecionado pelo professor Nélio Alves.
 
-Um sistema de jogo de xadrez 100% feito na linguagem de programação Java, usufruindo da orientação a objetos ao máximo, composição e padrão de camadas. Aplicação roda por meio do Terminal ou Cmd, no momento não havendo interface gráfica.
+Um sistema de jogo de xadrez 100% feito na linguagem de programação Java, usufruindo da orientação a objetos ao máximo, composição e padrão de camadas.
+
+Aplicação roda por meio do Terminal ou Cmd, no momento não havendo interface gráfica.
 
 ## Interface
 
