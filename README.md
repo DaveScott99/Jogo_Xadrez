@@ -1,4 +1,4 @@
-# Projeto Sistema Xadrez
+# ♟️ Jogo de Xadrez
 
 ## Sobre o projeto
 
@@ -8,17 +8,16 @@ Um sistema de jogo de xadrez 100% feito na linguagem de programação Java, usuf
 
 Aplicação roda por meio do Terminal ou Cmd, no momento não havendo interface gráfica.
 
+## Tecnologias utilizadas
+
+- `Java`
+
 ## Interface
 
 ![Captura de Tela 2022-09-15 às 15 43 57](https://user-images.githubusercontent.com/101915085/190484703-f3023ea7-431f-43d8-9dea-8ff3f3c9ffa4.png)
-
-
-## Tecnologias utilizadas
-
-- Java
 
 ## Autor
 
 Davi Santos
 
-linkedin.com/in/davi-santos-487942236
+https://linkedin.com/in/davi-santos-487942236
